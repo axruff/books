@@ -4,7 +4,11 @@
 
 Bjarne Stroustrup "The C++ Programming Language"
 
-Bjarne Stroustrup "Programming: Principles and Practice Using C++"
+Scott Meyers "Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14"
+
+Scott Meyers "More Effective C++"
+
+Scott Meyers "Effective C++: 55 Specific Ways to Improve Your Programs and Designs"
 
 
 ## Math: Introduction
