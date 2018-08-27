@@ -73,3 +73,7 @@ Richard Hartley,  Andrew Zisserman "Multiple View Geometry in Computer Vision"
  Jason Sanders, Edward Kandrot "CUDA by Example: An Introduction to General-Purpose GPU Programming"
  
  David B. Kirk "Programming Massively Parallel Processors: A Hands-On Approach"
+ 
+ ## Misc
+ 
+ Robert Bridson "Fluid Simulation for Computer Graphics"
