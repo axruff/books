@@ -90,3 +90,5 @@ Richard Hartley,  Andrew Zisserman "Multiple View Geometry in Computer Vision"
  ## Misc
  
  Robert Bridson "Fluid Simulation for Computer Graphics"
+ 
+ ![alt text](https://images.gr-assets.com/books/1382331942m/5584250.jpg "Fluid Simulation for Computer Graphics")
