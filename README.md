@@ -52,6 +52,9 @@ Justin Solomon "Numerical Algorithms: Methods for Computer Vision, Machine Learn
 
 Jorge Nocedal, Stephen J. Wright - Numerical Optimization
 
+![alt text](https://images.gr-assets.com/books/1347837648m/152455.jpg "Numerical Optimization")
+
+
 R. Fletcher "Practical Methods of Optimization"
 
 Press, Teukolsky, Vetterling, Flannery "Numerical Recipes: The Art of Scientific Computing"
