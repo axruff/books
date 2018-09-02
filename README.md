@@ -2,9 +2,13 @@
 
 ## Programming and Software Development
 
+
+
+
+
 Bjarne Stroustrup "The C++ Programming Language"
 
-Scott Meyers "Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14"
+Scott Meyers "Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14"([amazon](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996), [goodreads](https://www.goodreads.com/book/show/22800553-effective-modern-c))
 
 Scott Meyers "More Effective C++"
 
