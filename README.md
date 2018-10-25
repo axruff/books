@@ -92,8 +92,12 @@ Richard Hartley,  Andrew Zisserman "Multiple View Geometry in Computer Vision"
  
  David B. Kirk "Programming Massively Parallel Processors: A Hands-On Approach"
  
- ## Misc
+ ## Computer Graphics
  
  Robert Bridson "Fluid Simulation for Computer Graphics"
  
  ![alt text](https://images.gr-assets.com/books/1382331942m/5584250.jpg "Fluid Simulation for Computer Graphics")
+ 
+ Matt Pharr,  Greg Humphreys, Wenzel Jakob "Physically Based Rendering: From Theory to Implementation"
+ 
+ ![alt text](https://images.gr-assets.com/books/1459539287m/28407091.jpg "Physically Based Rendering: From Theory to Implementation")
