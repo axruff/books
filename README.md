@@ -53,6 +53,10 @@ Michael T. Heath "Scientific Computing"
 
 Justin Solomon "Numerical Algorithms: Methods for Computer Vision, Machine Learning, and Graphics"
 
+![alt text](https://images.gr-assets.com/books/1415582180m/20670669.jpg "Numerical Algorithms")
+
+
+
 Jorge Nocedal, Stephen J. Wright - Numerical Optimization
 
 ![alt text](https://images.gr-assets.com/books/1347837648m/152455.jpg "Numerical Optimization")
