@@ -39,6 +39,9 @@ Gilbert Strang "Introduction to Linear Algebra"
 
 Gene H. Golub,  Charles F. Van Loan "Matrix Computations"
 
+![alt text](https://images.gr-assets.com/books/1358897088m/17082790.jpg "Matrix Computations")
+
+
 Lloyd N. Trefethen,  David Bau  "Numerical Linear Algebra"
 
 ![alt text](https://images.gr-assets.com/books/1388638075m/1372376.jpg "Numerical Linear Algebra")
