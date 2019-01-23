@@ -37,7 +37,7 @@ Martin Gardner "My Best Mathematical and Logic Puzzles"
 
 Gilbert Strang "Introduction to Linear Algebra"
 
-![alt text](https://images.gr-assets.com/books/1472502929l/30423224.jpg "Matrix Computations")
+![alt text](https://images.gr-assets.com/books/1472502929m/30423224.jpgg "Matrix Computations")
 
 Gene H. Golub,  Charles F. Van Loan "Matrix Computations"
 
